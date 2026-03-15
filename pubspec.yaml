@@ -1,0 +1,54 @@
+name: censopet_sjc
+description: "App de Coleta Offline CensoPet SJC"
+# Author: Wélbster Florentino Labat Uchôas
+# Email: welbsteruchoas@gmail.com
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Ícones e Utilitários
+  cupertino_icons: ^1.0.2
+  lucide_icons: ^0.257.0
+  intl: ^0.19.0
+  uuid: ^4.2.1
+  http: ^1.1.0
+
+  # Versões Estáveis (Android 33/34/35)
+  file_picker: ^8.0.0 
+  shared_preferences: ^2.2.2
+  path_provider: ^2.1.2
+  share_plus: ^9.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  
+  # Ícones do App (Opcional, se tiver a imagem)
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/app_icon.png"
+  min_sdk_android: 21
+  web:
+    generate: true
+    image_path: "assets/app_icon.png"
+    background_color: "#ffffff"
+    theme_color: "#ffffff"
+
+
+
+flutter:
+  uses-material-design: true
+  # Descomente se tiver colocado a imagem na pasta assets
+  # assets:
+  #   - assets/

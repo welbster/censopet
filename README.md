@@ -38,7 +38,7 @@ A raiz do projeto abriga as devidas implementações nas pastas nativas e o cód
 1. Certifique-se de ter o ambiente [Flutter](https://docs.flutter.dev/get-started/install) devidamente configurado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/censopet_sjc.git
+   git clone https://github.com/welbster/censopet.git
    ```
 3. Baixe e atualize os pacotes do projeto:
    ```bash
