@@ -51,6 +51,8 @@ A raiz do projeto abriga as devidas implementações nas pastas nativas e o cód
    ```
 
 [Clique aqui para assistir ao manual no Google Drive](https://drive.google.com/file/d/1zUby0Q7B3klCd_6PLvLgQl6IDSpqTXpu/view?usp=sharing)
+
+
 [Clique aqui para ler o manual no Google Drive](https://drive.google.com/file/d/1MYBnvDKHxIkqMLDtOm9vQFfhPBExQgX9/view?usp=sharing)
 
 ## 👨‍💻 Autor
